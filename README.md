@@ -6,13 +6,13 @@ This project  is used to organize files in a specified directory based on their 
   2. To enhance file organization and reduce clutter in directories.
   
 ## Key Features
-  ## File Sorting by Extension:
+  #### File Sorting by Extension:
   Automatically sorts files into folders based on their extensions (e.g., images, documents, audio, video).
 
-  ### User Interface:
+  #### User Interface:
   A simple command-line interface (CLI) for user interaction.
 
-  ## Error Handling:
+  #### Error Handling:
   Robust error handling to manage issues such as missing files or invalid directories.
   Logging of errors and actions taken during the sorting process.
   
